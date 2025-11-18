@@ -12,6 +12,8 @@
 
 ### AI topic summary and significance
 
+#### The Rise of AI Companions (AI Girlfriends and Boyfriends) 
+
 ######################################
 
 ### Key findings and implications
