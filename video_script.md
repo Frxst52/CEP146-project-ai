@@ -1,13 +1,13 @@
 ## Video Script
 
-### [Shot 1: Welcome to "Title"] - Member
+### [Shot 1: Welcome to "Title"] - Raphael
 
-### [Shot 2: Introduction] - Member
+### [Shot 2: Introduction] - Kai
 
-### [Shot 3: How it got popular] - Member
+### [Shot 3: How it got popular] - Kai
 
-### [Shot 4: Current Event] - Member
+### [Shot 4: Current Event] - Arun
 
-### [Shot 5: Why is it important to us?] - Member
+### [Shot 5: How Can It Be Harmful To Us?] - Divjot
 
-### [Shot 5: Conclusion with a question] - Member
+### [Shot 5: Conclusion with a question] - Raphael
