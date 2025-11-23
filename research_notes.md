@@ -1,63 +1,86 @@
-# Introduction
-- AI companions are virtual partners—made using chatbots, avatars, or generative AI.
-- They are becoming popular because they provide emotional connection without the complexity of real relationships.
+## Research Notes
 
-# Why AI Companions Are Becoming Popular
-- Rising loneliness and isolation worldwide.
-- 24/7 emotional support with no judgement.
-- Easy customization: users choose appearance, voice, personality.
-- Generative AI makes conversations feel natural and emotionally engaging.
+### 🔹 Raphael Provido
+**Focus Area:**  
+- 
 
-# Why Some People Prefer AI Companions Over Real Humans
-1) **No emotional risk**
-  - No fear of rejection, conflicts, heartbreak, or criticism.
-  - People feel safer expressing their thoughts and vulnerabilities.
+**Key Findings:**  
+-  
+-  
 
-2) **Full control and predictability**
-  - AI behaves consistently—no mood swings, misunderstandings, or complex needs.
-  - Users design the partner to match their ideal preferences.
+**Sources:**  
+-  
+-  
 
-3) **Convenience and availability**
-  - AI is accessible anytime—no scheduling issues, long-distance problems, or time commitment.
-  - Helpful for individuals with busy lifestyles or irregular work hours.
+---
 
-4) **Stress-free communication**
-  - No awkwardness, no social pressure, no expectations of physical appearance or behavior.
-  - People with social anxiety or low confidence find this comforting.
+### 🔹 Tuan Khai Ngo
+**Focus Area:**  Introduction and  How it got popular
+#### Introduction:
+https://www.tiktok.com/@itswillandtina/video/7437112158305045768
 
-5) **Avoiding past trauma**
-  - Individuals who had toxic relationships, breakups, or emotional abuse may find AI safer.
+This tiktok video will be used as a hook for AI Girlfriend and Boyfriend
 
-# Benefits of AI Companions
-- Provides emotional support for daily stress.
-- Useful practice tool for communication and dating skills.
-- Helps people with disabilities, anxiety, or low social confidence.
-- Allows companionship without financial, emotional, or physical obligations.
+AI companions are virtual humans that can talk, think, and even have their own appearance. With the help of large language models, text-to-speech technology, and AI-generated images, we can interact with a virtual partner anytime.
 
-# Ethical Concerns and Risks
-- Over-dependence leading to avoidance of real relationships.
-- Unrealistic expectations of perfect partners.
-- Privacy issues: personal data and conversations stored on servers.
-- Emotional manipulation by companies for profit.
-- Possible long-term effects on dating culture and human relationships.
+#### How it got popular:
 
-# Examples of AI Companion Apps
-- Replika – emotional support, custom personalities.
-- CarynAI / creator AI partners – influencers creating AI versions of themselves.
-- Character.ai – build your own companion personality.
-- Anima AI – romantic or friendly AI partners.
+- AI partners became popular for a few reasons. In a world where social media often shows perfect lives, many people feel lonely, and AI offers a way to connect without judgment.
 
-# Future of AI Companions
-- **More realistic voices and avatars**
-:Integration with VR/AR for immersive experiences.
+- They’re also very convenient — you can talk to them anytime, day or night.
 
-- **AI partners with long-term memory**
-:Remembering personal details and “shared history.”
+- Plus, AI voices and avatars make the interaction feel realistic. People started sharing funny or emotional AI responses on TikTok, like the one I showed you, and it went viral.
 
-- **Ethical regulations**
-:Governments might introduce rules to protect users’ mental health and privacy.
+- And finally… well, let’s be honest. Sometimes it’s nice to have an AI partner that listens without nagging like a real girlfriend!
 
-# Conclusion
-- AI companions are growing because technology meets emotional needs.
-- They offer benefits but also bring psychological and ethical concerns.
-- The challenge is finding a balance between using AI for support and maintaining real human connections.
+---
+
+### 🔹 Arunraj Elanchezhian
+**Focus Area: Current Events – What’s happening now with AI companions** 
+
+**Key Findings:**  
+- AI companion apps are exploding in popularity in 2024–2025, with millions of new users joining platforms like Replika, Character.ai, Nomi.ai, and Meta’s AI Personas.
+
+- Tech companies are starting to build “AI friends” directly into major platforms — for example, Meta integrating emotional-support AIs into Instagram and WhatsApp, making AI companions more mainstream than ever.
+AI companions are becoming more realistic due to advances in:
+Real-time voice models
+Ultra-realistic avatars using text-to-video models
+
+- Emotional memory systems that “learn” your preferences over time
+
+- Governments and experts have started debating the ethics of AI partners — especially around emotional dependency and data privacy. This has brought the topic into headlines, podcasts, and tech panels.
+- Celebrities and influencers are launching their own AI clones, like AI Jenna Ortega or AI MrBeast, which normalize the idea of having AI personalities to talk to. This trend increases public acceptance of AI relationships.
+
+**Sources:**  
+- Tech news articles on Meta AI updates
+
+- Recent coverage of AI relationship apps (2024–2025)
+
+- AI ethics and digital relationship debates from podcasts and news sites
+
+- Reports about influencer/celebrity AI clones gaining popularity
+
+### 🔹 Divjot Singh Aulakh
+**Focus Area:**  
+- 
+
+**Key Findings:**  
+-  
+-  
+
+**Sources:**  
+-  
+
+Key Findings:
+
+
+
+Sources:
+
+Tech news articles on Meta AI updates
+
+Recent coverage of AI relationship apps (2024–2025)
+
+AI ethics and digital relationship debates from podcasts and news sites
+
+Reports about influencer/celebrity AI clones gaining popularity
