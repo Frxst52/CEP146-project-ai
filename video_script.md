@@ -10,7 +10,8 @@ https://www.tiktok.com/@itswillandtina/video/7437112158305045768
 
 This tiktok video will be used as a hook for AI Girlfriend and Boyfriend
 
-AI companions are virtual humans that can talk, think, and even have their own appearance. With the help of large language models, text-to-speech technology, and AI-generated images, we can interact with a virtual partner anytime.
+
+See how AI response? This is why people use AI companions. But what is AI companions actually? They are virtual humans that can talk, think, and even have their own appearance. With the help of large language models, text-to-speech technology, and AI-generated images, we can interact with a virtual partner anytime.
 
 ### [Shot 3: How it got popular] - Kai
 
