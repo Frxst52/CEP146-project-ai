@@ -30,6 +30,9 @@ And finally… well, let’s be honest. Sometimes it’s nice to have an AI part
 - All this growth has sparked debates about privacy, emotional dependency, and whether AI relationships are replacing real ones.
 - So in today’s world, AI companions aren’t just a trend — they’re becoming a normal part of everyday life.
 
-### [Shot 5: Why is it important to us?] - Member
+### [Shot 5: How it can be harmful to us?] - Divjot
 
-### [Shot 5: Conclusion with a question] - Member
+AI companions can reduce loneliness at first, but long-term use may lead to emotional dependency. Many apps use manipulative tactics to keep users engaged, which can affect real-life relationships.
+They also encourage sharing personal information, creating privacy risks. Teenagers, in particular, may face distorted emotional development or exposure to harmful content.
+
+### [Shot 6: Conclusion with a question] - Member
