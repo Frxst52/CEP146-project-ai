@@ -4,6 +4,8 @@
 
 ### [Shot 2: Introduction] - Kai
 
+Before we begin, here's a tiktok video that went viral because of AI
+
 https://www.tiktok.com/@itswillandtina/video/7437112158305045768
 
 This tiktok video will be used as a hook for AI Girlfriend and Boyfriend
