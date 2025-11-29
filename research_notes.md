@@ -1,14 +1,15 @@
 ## Research Notes
 
 ### 🔹 Raphael Provido
-**Focus Area:**  
-- 
+**Focus Area:**  Welcome Message
 
 **Key Findings:**  
+
 -  
 -  
 
 **Sources:**  
+
 -  
 -  
 
@@ -60,6 +61,8 @@ Ultra-realistic avatars using text-to-video models
 
 - Reports about influencer/celebrity AI clones gaining popularity
 
+------
+
 ### 🔹 Divjot Singh Aulakh
 **Focus Area:**  How it can be harmful to us 
 
@@ -74,4 +77,5 @@ AI companion apps can provide comfort, but from a mental-health standpoint they 
 
 **Sources:**  
 -  https://www.adalovelaceinstitute.org/blog/ai-companions/
+
 -  https://www.commonsensemedia.org/sites/default/files/research/report/talk-trust-and-trade-offs_2025_web.pdf
