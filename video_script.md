@@ -6,11 +6,14 @@ Hello, everyone! Welcome to The Rise of AI Companions. We'll present about what 
 
 ### [Shot 2: Introduction] - Kai
 
+Before we begin, here's a tiktok video that went viral because of AI
+
 https://www.tiktok.com/@itswillandtina/video/7437112158305045768
 
 This tiktok video will be used as a hook for AI Girlfriend and Boyfriend
 
-AI companions are virtual humans that can talk, think, and even have their own appearance. With the help of large language models, text-to-speech technology, and AI-generated images, we can interact with a virtual partner anytime.
+
+See how AI response? This is why people use AI companions. But what is AI companions actually? They are virtual humans that can talk, think, and even have their own appearance. With the help of large language models, text-to-speech technology, and AI-generated images, we can interact with a virtual partner anytime.
 
 ### [Shot 3: How it got popular] - Kai
 
@@ -32,6 +35,9 @@ They also encourage sharing personal information, creating privacy risks. Teenag
 
 ### [Shot 6: Conclusion with a final question] - 
 
-AI companions are convenient, entertaining, and comforting, but they can also impact emotional health, relationships, and privacy. 
+### [Shot 5: How it can be harmful to us?] - Divjot
 
-As these AI partners become more common, here’s a question to think about: Is using AI companions while having a boyfriend or girlfriend considered cheating?
+AI companions can reduce loneliness at first, but long-term use may lead to emotional dependency. Many apps use manipulative tactics to keep users engaged, which can affect real-life relationships.
+They also encourage sharing personal information, creating privacy risks. Teenagers, in particular, may face distorted emotional development or exposure to harmful content.
+
+### [Shot 6: Conclusion with a question] - Member
